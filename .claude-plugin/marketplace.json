@@ -1,0 +1,35 @@
+{
+  "name": "marketing-skills-marketplace",
+  "owner": {
+    "name": "Alireza Rezvani",
+    "url": "https://alirezarezvani.com"
+  },
+  "description": "Standalone marketplace for the marketing-skills plugin: 44 production-ready marketing skills across 8 pods (content, SEO + AEO, CRO, channels, growth, intelligence, sales enablement, ops). Extracted from alirezarezvani/claude-skills for standalone install.",
+  "homepage": "https://github.com/dbehzadnia/.claude-skills-claude-skills-marketing-skills",
+  "repository": "https://github.com/dbehzadnia/.claude-skills-claude-skills-marketing-skills",
+  "plugins": [
+    {
+      "name": "marketing-skills",
+      "source": "./",
+      "description": "44 production-ready marketing skills across 8 pods: Content, SEO + AEO, CRO, Channels, Growth, Intelligence, Sales enablement, and Ops. 59 stdlib-only Python tools, no pip installs needed.",
+      "version": "2.9.0",
+      "author": {
+        "name": "Alireza Rezvani"
+      },
+      "keywords": [
+        "marketing",
+        "content",
+        "seo",
+        "aeo",
+        "cro",
+        "growth",
+        "sales",
+        "copywriting",
+        "email",
+        "social-media",
+        "paid-ads"
+      ],
+      "category": "marketing"
+    }
+  ]
+}
